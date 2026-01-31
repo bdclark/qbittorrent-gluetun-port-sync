@@ -1,0 +1,19 @@
+version: "0.2"
+language: en
+words:
+  - gluetun
+  - qbittorrent
+  - bdclark
+  - wireguard
+  - protonvpn
+  - portforward
+  - qmcgaw
+  - webui
+  - adminadmin
+ignorePaths:
+  - .git
+  - .venv
+  - venv
+  - __pycache__
+  - "*.pyc"
+  - node_modules
